@@ -2,5 +2,5 @@
 
 - [ ] Smart Dustbin
 - [ ] Pollution-Meter
-- [ ] Uber-For-Ambulances
+- [ ] Uber For Ambulances
 - [ ] Garbage Detection
