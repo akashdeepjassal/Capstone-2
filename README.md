@@ -1,2 +1,6 @@
-# Capstone-2
-Code For Captsone 2
+# Capstone 2
+
+- [ ] Smart Dustbin
+- [ ] Pollution-Meter
+- [ ] Uber-For-Ambulances
+- [ ] Garbage Detection
