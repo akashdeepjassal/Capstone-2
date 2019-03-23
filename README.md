@@ -1,6 +1,6 @@
 # Capstone 2
 
-- [ ] Smart Dustbin
-- [ ] Pollution-Meter
+- [x] Smart Dustbin
+- [x] Pollution-Meter
 - [ ] Uber For Ambulances
 - [ ] Garbage Detection
