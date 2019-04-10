@@ -20,7 +20,7 @@ char ssid[] = "Nokia8";
 char pass[] = "hello123";
 int sensorThres = 400;
 
-#define DHTPIN 0          // D3
+#define DHTPIN D4          // D3
 int smokeA0 = A0;
 
 // Uncomment whatever type you're using!
